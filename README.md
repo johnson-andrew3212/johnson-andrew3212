@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey, I'm Andrew 👋
 
-<!--
-**johnson-andrew3212/johnson-andrew3212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Paris. I spend most of my time building full-stack web products, micro-SaaS experiments, and developer utilities.
 
-Here are some ideas to get you started:
+### What I'm up to
+- Bootstrapping lightweight web apps with minimal bloat
+- Sticking to simple stacks: FastAPI on the backend, React on the frontend, and SQLite until scale demands otherwise
+- Writing practical automation scripts and internal tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- **Languages:** Python, TypeScript, SQL
+- **Frameworks:** FastAPI, React, Next.js, Node.js
+- **Database & Infra:** SQLite, PostgreSQL, Docker, Linux
+
+### Get in touch
+- Twitter/X: [@johnson_andrew](https://x.com)
+- Email: andrew@johnson.dev
+- Blog / Notes: [johnson.dev](https://johnson.dev)
+
+Feel free to reach out if you want to chat about indie hacking or API architecture.
